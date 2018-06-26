@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/Pong/Pong/bin/Debug/netcoreapp1.1/Pong.deps.json
+/Users/Guest/Desktop/Pong/Pong/bin/Debug/netcoreapp1.1/Pong.dll
+/Users/Guest/Desktop/Pong/Pong/bin/Debug/netcoreapp1.1/Pong.pdb
+/Users/Guest/Desktop/Pong/Pong/obj/Debug/netcoreapp1.1/Pong.AssemblyInfo.cs
+/Users/Guest/Desktop/Pong/Pong/obj/Debug/netcoreapp1.1/Pong.dll
+/Users/Guest/Desktop/Pong/Pong/obj/Debug/netcoreapp1.1/Pong.pdb

@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Pong.Tests.deps.json
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Pong.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Pong.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Pong/Pong.Tests/obj/Debug/netcoreapp1.1/Pong.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Pong.Tests.dll
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Pong.Tests.pdb
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Pong.dll
+/Users/Guest/Desktop/Pong/Pong.Tests/bin/Debug/netcoreapp1.1/Pong.pdb
+/Users/Guest/Desktop/Pong/Pong.Tests/obj/Debug/netcoreapp1.1/Pong.Tests.dll
+/Users/Guest/Desktop/Pong/Pong.Tests/obj/Debug/netcoreapp1.1/Pong.Tests.pdb
